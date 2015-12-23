@@ -1,0 +1,9 @@
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\bin\Debug\Windows7_DataHarvester.exe.config
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\bin\Debug\Windows7_DataHarvester.exe
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\bin\Debug\Windows7_DataHarvester.pdb
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\obj\Debug\Windows7_DataHarvester.csprojResolveAssemblyReference.cache
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\obj\Debug\Windows7_DataHarvester.Form1.resources
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\obj\Debug\Windows7_DataHarvester.Properties.Resources.resources
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\obj\Debug\Windows7_DataHarvester.csproj.GenerateResource.Cache
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\obj\Debug\Windows7_DataHarvester.exe
+C:\Users\hogarth45\Documents\Visual Studio 2012\Projects\Windows7_DataHarvester\Windows7_DataHarvester\obj\Debug\Windows7_DataHarvester.pdb
